@@ -9,19 +9,16 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Algorithm
 Step1. Import pandas
-
 Step2. Import Decision tree classifier
-
 Step3. Fit the data in the model
-
 Step4. Find the accuracy score
 
 ## Program:
 ```
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: JAI SRIRAM S
-RegisterNumber:  212222040057
+Developed by: YASHWANTH RAJA DURAI
+RegisterNumber:  212222040184
 
 import pandas as pd
 data=pd.read_csv("/content/Employee.csv")
